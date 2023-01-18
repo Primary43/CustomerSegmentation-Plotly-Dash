@@ -19,4 +19,4 @@ To identify a different customer segment and underlie the similar characteristic
 ### Task 5: Deploy WebApps using ngrok
 https://69d0-34-138-109-133.ngrok.io/
 
-[![Dash](<https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dash.gif?raw=true>)](https://user-images.githubusercontent.com/81668176/213185135-34aef773-858d-43d6-a708-6b51c55fdc17.mp4)
+[![Dash](<https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dashGif.gif?raw=true>)]()
