@@ -20,3 +20,4 @@ To identify a different customer segment and underlie the similar characteristic
 https://69d0-34-138-109-133.ngrok.io/
 https://user-images.githubusercontent.com/81668176/213185135-34aef773-858d-43d6-a708-6b51c55fdc17.mp4
 
+[![Dash](<https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dash.gif?raw=true>)](https://charts.mongodb.com/charts-disbot-fgnht/public/dashboards/60acf749-713d-4858-8c65-3980e916cbfa)
