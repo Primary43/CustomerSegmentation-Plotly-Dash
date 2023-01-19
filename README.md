@@ -18,6 +18,6 @@ To identify a different customer segment and underlie the similar characteristic
  
 ### Task 5: Deploy WebApps using ngrok
 - Dashboard: http://clusteringdash.ngrok.io/
-- Colab: https://colab.research.google.com/github/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/python/Clustering_Plotly_Dashboard.ipynb
+- Colab: https://colab.research.google.com/github/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/python/clustering_plotly_dashboard.ipynb
 
 [![Dash](<https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dashGif.gif?raw=true>)](http://clusteringdash.ngrok.io/)
