@@ -20,4 +20,4 @@ To identify a different customer segment and underlie the similar characteristic
 - Dashboard: http://clusteringdash.ngrok.io/
 - Colab: https://colab.research.google.com/github/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/python/clustering_plotly_dashboard.ipynb
 
-[![Dash](<https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dashGif.gif?raw=true>)](http://clusteringdash.ngrok.io/)
+![Dash](<https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dashGif.gif?raw=true>)
